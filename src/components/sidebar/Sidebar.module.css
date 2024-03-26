@@ -1,0 +1,20 @@
+.sidebar {
+    background-color: rgb(230, 238, 235);
+    width: 35%;
+    max-width: 300px;
+    font-size: 20px;
+    position: absolute;
+    padding-top: 2%;  
+    height: 100%;
+}
+
+.line {
+    width: 100%;
+    background-color: black;
+    height: 1px;
+    margin: 15px 0px;
+}
+
+.countdown-bar {
+    width: 90
+}

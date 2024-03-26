@@ -1,5 +1,5 @@
 const MyButton = ({handleClick}) => {
-    return <button onClick={handleClick} >idk</button>
+    return <button onClick={handaleClick} >idk</button>
   }
 
 export default MyButton;
